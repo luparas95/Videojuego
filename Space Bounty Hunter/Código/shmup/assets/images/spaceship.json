@@ -1,0 +1,13 @@
+{
+    "hero" : [35,85,47,45],
+    "hero_left" : [0,85,35,45],
+    "hero_right" : [82,85,34,45],
+    "hero_up" : [35,40,47,45],
+    "hero_down" : [35,0,47,40],
+    "hero_left_up" : [0,40,35,45],
+    "hero_right_up" : [82,40,34,45],
+    "hero_left_down" : [0,0,35,40],
+    "hero_right_down" : [82,0,34,40],
+    "hero_bullet" : [4,131,4,11],
+    "enemy_bullet" : [14,131,4,11]
+}

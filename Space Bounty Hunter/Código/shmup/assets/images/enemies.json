@@ -1,0 +1,9 @@
+{
+    "red_enemy" : [0,0,41,41],
+    "red_enemy_exp_1" : [41,0,47,41],
+    "red_enemy_exp_2" : [88,0,47,41],
+    "blue_enemy" : [0,41,41,41],
+    "blue_enemy_exp_1" : [41,41,47,41],
+    "blue_enemy_exp_2" : [88,41,47,41],
+    "enemy_final_exp" : [135,0,40,41]
+}
